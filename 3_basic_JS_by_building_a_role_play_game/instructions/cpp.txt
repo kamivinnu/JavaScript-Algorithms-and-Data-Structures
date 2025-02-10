@@ -1,0 +1,29 @@
+
+
+Programming in Modern C++ Course Syllabus: 
+
+Instructor: Kamithkar Vinod
+
+1. Programming in C++ is Fun: Introduction and Overview
+
+2. C++ is Better C: Procedural extensions of C
+
+3. OOP in C++\1: Classes and Encapsulation
+
+4. OOP in C++\2: Overloading, namespace, struct and union
+
+5. Inheritance: ISA & HAS_A in C++
+
+6. Ploymorphism: Binding, VFT, Multiple Inheritance
+
+7. Type Casting: C++ operators
+
+8. Exceptions and Templates: try-throw-catch, Meta Programming
+
+9. Streams and STL: IO, Containers, Algorithms
+
+10. Modern C++: C++11 and beyond-better C++, basic feautures
+
+11. Lambda & Concurrency: Lambda functions; threads, async call and mutex
+
+12. Move, Rvalue and Containers: Move Semantics, Summarization.

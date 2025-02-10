@@ -1,0 +1,69 @@
+Front End
+
+--------HTML---------------
+
+        1. HTML Introduction and setup, Heading and paragraphs
+        2. Text formatting tags, attributes, list
+        3. Links and images, Tables
+        4. Audio and video
+        5. Forms
+
+------- CSS --------------
+
+        1. Introduction and syntax, colors
+        2. Units of measurements and Forms
+        3. Text formatting styles and icons
+        4. Visual formatting and box model
+        5. Selectors and division method and background images
+        6. Float, container and clear
+        7. Flex box and grid
+        8. Pseudo elements and classes and shadow
+        9. Position, border radius and outline
+        10. Animations and opacity, overflow
+        11. Gradients and transition
+        12. Media Queries
+
+-----------Bootstrap------
+
+        1. Introduction and setup colors, background, font sizes
+        2. Text formatting classes, list classes
+        3. Box model, images, icons, button and Forms
+        4. Grid system, containers, gutters, positions
+        5. Navbar, Carousel, Cards and Modal
+        6. Off Canvas and accordion
+        7. Break points, Responsive classes
+
+--------- JavaScript --------------
+
+        1. Introduction and setup, variables
+        2. Data types, Type conversions
+        3. Operators and User Input
+        4. Decision making statements
+        5. loops
+        6. functions
+        7. strings
+        8. arrays
+        9. objects
+        10. constructor functions, this keyword, prototype
+        11. Understanding DOM
+        12. Selecting elements and Traversing elements
+        13. Manipulating elements
+        14. Asynchronous
+        15. Fetch API, JSON
+        16. Date and Time, RegeX
+        17. Arrow Functions, Spread Operators
+        18. High Order Functions
+        19. Inheritance
+
+------ React  JS ----------
+
+        1. Introduction and installations
+        2. React props 
+        3. State and props
+        4. Components and Nesting
+        5. Hooks
+        6. Component Styling and lifestyle Routing
+        7. Events 
+        8. Axious and API
+        9. CRUD operations
+        
